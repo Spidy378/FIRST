@@ -14,6 +14,7 @@ namespace ThrowMeAway
         protected override void OnStart()
         {
             // Handle when your app starts
+            var someCode = false;
         }
 
         protected override void OnSleep()
